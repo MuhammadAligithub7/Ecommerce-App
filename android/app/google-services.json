@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427379275290",
+    "project_id": "easy-shopping-an-ecommer-53de3",
+    "storage_bucket": "easy-shopping-an-ecommer-53de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427379275290:android:ffb0990dcebaf6581a03a3",
+        "android_client_info": {
+          "package_name": "com.example.easyshop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmmUWBVcQxh4dauBOLMf7c1rVd6bdsho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
